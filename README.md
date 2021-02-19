@@ -121,3 +121,5 @@ mvn package
 docker run -d -p 8080:8080 --name test ${容器名}:${版本号}
 ```
 
+## 通过Dockerfile构建镜像
+https://github.com/kay-520/Java_Learning/tree/master/05%20docker_build_Demo
